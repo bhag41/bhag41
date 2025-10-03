@@ -26,19 +26,6 @@ Welcome to my GitHub profile! I'm a senior software engineer with over 10 years 
 
 ---
 
-### 📊 GitHub Stats
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bhag41&theme=default)
-
----
-
-### 👁️ Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/bhag41/count.svg)
-
----
-
 ### 🔗 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/bhag41) 
