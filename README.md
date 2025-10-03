@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm a senior software engineer with over 10 years 
 
 ### 📊 GitHub Stats
 
-![BK's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhag41&show_icons=true&theme=default)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bhag41&theme=default)
 
