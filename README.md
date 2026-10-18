@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Bhagyashree Kulkarni (BK)  
-### Full-Stack Developer | Tech Enthusiast | Founder of Maitrin.com  
+### AI Agent Engineer | Full-Stack Developer | Founder of Maitrin.com  
 
 Welcome to my GitHub profile! I'm a senior software engineer with over 10 years of experience in building scalable web and mobile applications using JavaScript, Python, and cloud platforms like AWS.
 
